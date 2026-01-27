@@ -20,14 +20,18 @@ const bigNumber = 2343525453435534n
 
 // Array, Objects, Functions
 
-const heros = ["sohan", "sami", "sadia"];
-let myObj = {
-    name:"sohan",
-    age: 20,
-    }
+// const heros = ["sohan", "sami", "sadia"];
+// let myObj = {
+//     name:"sohan",
+//     age: 20,
+//     }
 
-const myfunction = function() {
-    console.log("Hello world");
+// const myfunction = function() {
+//     console.log("Hello world");
     
-}
-console.log(typeof bigNumber);
+// }
+// console.log(typeof bigNumber);
+
+
+console.log("sohan");
+
